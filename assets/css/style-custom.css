@@ -1317,11 +1317,11 @@ span.underline {
     padding: 0!important;
 }
 .content.container-fluid {
-    margin: 170px 13% 100px;
+    margin: 50px 13% 100px;
 }
 .content .title-container {
     display: block;
-    padding: 0 15px;
+  /*  padding: 0 15px;*/
 }
 .content h1 {
     color: #4c4d57;
@@ -1342,8 +1342,7 @@ span.underline {
     border-color: #4c4d57;
     display: block;
     border-width: 24px;
-    width: 30%;
-    margin: 55px 15px 85px;
+    margin: 35px 0 35px;
 }
 .content p {
     font-size: 25px;
@@ -1360,7 +1359,7 @@ hr.tiny {
     opacity: 1;
     -webkit-animation: blink .7s infinite;
     animation: blink .7s infinite;
-    font-size: 75px;
+    font-size: 65px;
     display: inline;
     font-weight: 700;
     color: #4c4d57;
@@ -1495,7 +1494,7 @@ article:hover .overlay {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000',  endColorstr='#e74d3c',  GradientType=0);
 }
 .single.container {
-    margin-top: 100px;
+    margin-top: 30px;
 }
 .single h1, .single h2, .single h3, .single h4, .single h5, .single h6 {
     font-family: Lato, sans-serif;
